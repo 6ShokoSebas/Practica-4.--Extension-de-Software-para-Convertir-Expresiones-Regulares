@@ -95,6 +95,3 @@ Para mostrar el diagrama de estados del AFD.
 * NetworkX
 
 ---
-
-```
-```
